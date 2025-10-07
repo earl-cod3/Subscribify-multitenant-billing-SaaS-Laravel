@@ -1,0 +1,16 @@
+﻿/vendor/
+/node_modules/
+/public/storage
+/public/build
+.env
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+/storage/*.key
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/.idea/
+/.vscode/
+.DS_Store
